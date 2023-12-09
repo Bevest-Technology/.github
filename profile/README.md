@@ -30,13 +30,13 @@ Our team consists of 7 members, from various backgrounds and together contribute
    
 |        Role        | Name                           |Bangkit ID        |                       University                | LinkedIn | 
 | ------------------ | -------------------------------|------------------|-------------------------------------------------|----------| 
-| Mobile Development | Alif Akbar Kartadinata         | A248BSY1974      | University of Lampung                           |[Here](https://www.linkedin.com/in/mralifakbar/)|
-| Mobile Development | Muhammad Noor Hakim            | A172BSY2107      | University of Mikroskil                         |[Here](https://www.linkedin.com/in/mhd-noor-hakim/)|
-| Machine Learning   | M. Dwi Pratama                 | M248BSY1185      | University of Lampung                           |[Here](https://www.linkedin.com/in/m-dwi-pratama/) |
-| Machine Learning   | Winda Apriliyanti              | M248BSX1589      | University of Lampung                           |[Here](https://www.linkedin.com/in/windaapriliyanti/)|
-| Machine Learning   | Dicky Setiawan                 | M007BSY1347      | University of Dian Nuswantoro                   |[Here](https://www.linkedin.com/in/dickysstwn/)|
-| Cloud Computing    | Ivana C. Rutchya               | C006BSX4152      | University of Brawijaya                         |[Here](https://www.linkedin.com/in/ivana-c-rutchya/)|
-| Cloud Computing    | Ade Reiki Karuna               | C007BSY4082      | University of Dian Nuswantoro                   |[Here](https://www.linkedin.com/in/reikidev/)|
+| Mobile Development | Alif Akbar Kartadinata         | A248BSY1974      | University of Lampung                           |[Click Here](https://www.linkedin.com/in/mralifakbar/)|
+| Mobile Development | Muhammad Noor Hakim            | A172BSY2107      | University of Mikroskil                         |[Click Here](https://www.linkedin.com/in/mhd-noor-hakim/)|
+| Machine Learning   | M. Dwi Pratama                 | M248BSY1185      | University of Lampung                           |[Click Here](https://www.linkedin.com/in/m-dwi-pratama/) |
+| Machine Learning   | Winda Apriliyanti              | M248BSX1589      | University of Lampung                           |[Click Here](https://www.linkedin.com/in/windaapriliyanti/)|
+| Machine Learning   | Dicky Setiawan                 | M007BSY1347      | University of Dian Nuswantoro                   |[Click Here](https://www.linkedin.com/in/dickysstwn/)|
+| Cloud Computing    | Ivana C. Rutchya               | C006BSX4152      | University of Brawijaya                         |[Click Here](https://www.linkedin.com/in/ivana-c-rutchya/)|
+| Cloud Computing    | Ade Reiki Karuna               | C007BSY4082      | University of Dian Nuswantoro                   |[Click Here](https://www.linkedin.com/in/reikidev/)|
 
 <br/>
 
