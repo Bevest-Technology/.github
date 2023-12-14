@@ -50,7 +50,7 @@ Our team consists of 7 members, from various backgrounds and together contribute
 <p align="center"> <img src="https://i.ibb.co/MVY5YHF/mockup-bevest-3.png" width="200px"></p> 
 <p align="center"><img src="https://i.ibb.co/cT3shzX/i-Phone-13-1.png" width="200px"><img src="https://i.ibb.co/3CtYWvP/i-Phone-13-Pro.png" width="200px"><img src="https://i.ibb.co/VjGtZDk/i-Phone-15-Pro-1.png" width="200px"><img src="https://i.ibb.co/FXLyWj8/i-Phone-13-Pro-2.png" width="200px"></p> 
 
-<p align="left">Design by Ivana C. Rutchya</p>
+<p align="left">UI Design by Ivana C. Rutchya</p>
 
 <br>
 <br/>
