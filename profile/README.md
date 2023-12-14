@@ -24,6 +24,9 @@ Bevest, an equity crowdfunding application integrated with machine learning capa
 
 <p align="center"><img src="https://i.ibb.co/QNtf90X/Bevest-Logo.png" width="250px"></p>
 
+<br>
+<br/>
+
 ### Our Goals
 Our team consists of 7 members, from various backgrounds and together contribute to the construction of this application. Combine several technologies namely machine learning, cloud computing, and mobile development to create an application that aims to overcome the funding problems of SMEs that occur in Indonesia. The hope of this application is to help SMEs to more easily get funding so that they are able to maintain and develop their business and help the realization of Indonesia's SDGs.
 
@@ -43,11 +46,16 @@ Our team consists of 7 members, from various backgrounds and together contribute
 
 ### Bevest UI
 <br/>
-<p align="left"><img src="https://i.ibb.co/MVY5YHF/mockup-bevest-3.png" width="200px"></p>
 
+<p align="center"> <img src="https://i.ibb.co/MVY5YHF/mockup-bevest-3.png" width="200px"></p> 
+<p align="center"><img src="https://i.ibb.co/cT3shzX/i-Phone-13-1.png" width="200px"><img src="https://i.ibb.co/3CtYWvP/i-Phone-13-Pro.png" width="200px"><img src="https://i.ibb.co/VjGtZDk/i-Phone-15-Pro-1.png" width="200px"><img src="https://i.ibb.co/FXLyWj8/i-Phone-13-Pro-2.png" width="200px"></p> 
+
+<p align="left">Design by Ivana C. Rutchya</p>
+
+<br>
 <br/>
-
-
+<br>
+<br/>
 <p align="right"> Regards, </p>
 <p align="right"> <img src="https://i.ibb.co/xS7Z9hG/Bevest-mark.png" width="60px" > </p>
 
