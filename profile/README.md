@@ -21,11 +21,10 @@ Bevest, an equity crowdfunding application integrated with machine learning capa
 <details>
    <summary align="center">More About Us</summary>
 <br/>
-
-<p align="center"><img src="https://i.ibb.co/QNtf90X/Bevest-Logo.png" width="250px"></p>
-
 <br>
 <br/>
+<p align="center"><img src="https://i.ibb.co/gmBFdWz/logo-bevest-bagus.png" width="250px"></p>
+
 
 ### Our Goals
 Our team consists of 7 members, from various backgrounds and together contribute to the construction of this application. Combine several technologies namely machine learning, cloud computing, and mobile development to create an application that aims to overcome the funding problems of SMEs that occur in Indonesia. The hope of this application is to help SMEs to more easily get funding so that they are able to maintain and develop their business and help the realization of Indonesia's SDGs.
