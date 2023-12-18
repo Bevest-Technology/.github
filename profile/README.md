@@ -23,7 +23,7 @@ Bevest, an equity crowdfunding application integrated with machine learning capa
 <br/>
 <br>
 <br/>
-<p align="center"><img src="https://i.ibb.co/gmBFdWz/logo-bevest-bagus.png" width="250px"></p>
+<p align="center"><img src="https://i.ibb.co/GT3X7f9/bevest-logo.png" width="300px"></p>
 
 
 ### Our Goals
